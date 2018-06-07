@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Settings</string>
+    <string name="facebook_app_id">104663747075390</string>
+
+    <string name="tvTuDongDoc">Auto Read</string>
+    <string name="tvNgonNgu">Language</string>
+    <string name="tvChiaSeApp">Share App</string>
+    <string name="tvDanhGiaApp">Rating App</string>
+    <string name="tvykien">Opinion App</string>
+    <string name="title_activity_language">Language</string>
+    <string name="title_activity_man_hinh_chia_se">ManHinhChiaSe</string>
+    <string name="btnDangxuat">Log out</string>
+    <string name="title_activity_main_opinion">MainOpinion</string>
+    <string name="title_activity_main2_opinoin">Main2Opinoin</string>
+    <string name="no">"No"</string>
+    <string name="yes">"Yes"</string>
+    <string name="not_now">"Not Now</string>
+    <string name="english">"English"</string>
+    <string name="vietnamese">"Vietnamese"</string>
+    <string name="language">"Language"</string>
 </resources>
